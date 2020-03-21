@@ -1,0 +1,7 @@
+# Python Files
+**/bin/*
+**/lib/*
+**/include/*
+
+# Generated images
+*.png
