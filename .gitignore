@@ -5,3 +5,9 @@
 
 # Generated images
 *.png
+
+# Vim files
+*.swp
+
+# Do include example images
+!examples/*.png
